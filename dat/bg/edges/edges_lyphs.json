@@ -1,0 +1,177 @@
+[
+   {
+      "source": "μ1",
+      "target": "μ1",
+      "edge_type": "BC",
+      "id": "L1",
+      "name": "L1 -- μ1 - μ1"
+   },
+   {
+      "source": "v1",
+      "target": "μ1",
+      "edge_type": "1",
+      "id": "L2",
+      "name": "L2 -- v1 - μ1"
+   },
+   {
+      "source": "μ2",
+      "target": "μ1",
+      "edge_type": "0",
+      "id": "L3",
+      "name": "L3 -- μ2 - μ1"
+   },
+   {
+      "source": "v2",
+      "target": "μ1",
+      "edge_type": "0",
+      "id": "L4",
+      "name": "L4 -- v2 - μ1"
+   },
+   {
+      "source": "μ3",
+      "target": "μ1",
+      "edge_type": "0",
+      "id": "L5",
+      "name": "L5 -- μ3 - μ1"
+   },
+   {
+      "source": "v3",
+      "target": "μ1",
+      "edge_type": "1",
+      "id": "L6",
+      "name": "L6 -- v3 - μ1"
+   },
+   {
+      "source": "μ1",
+      "target": "v1",
+      "edge_type": "-1",
+      "id": "L7",
+      "name": "L7 -- μ1 - v1"
+   },
+   {
+      "source": "v1",
+      "target": "v1",
+      "edge_type": "R1_L1",
+      "id": "L8",
+      "name": "L8 -- v1 - v1"
+   },
+   {
+      "source": "μ2",
+      "target": "v1",
+      "edge_type": "1",
+      "id": "L9",
+      "name": "L9 -- μ2 - v1"
+   },
+   {
+      "source": "v2",
+      "target": "v1",
+      "edge_type": "0",
+      "id": "L10",
+      "name": "L10 -- v2 - v1"
+   },
+   {
+      "source": "μ3",
+      "target": "v1",
+      "edge_type": "0",
+      "id": "L11",
+      "name": "L11 -- μ3 - v1"
+   },
+   {
+      "source": "v3",
+      "target": "v1",
+      "edge_type": "0",
+      "id": "L12",
+      "name": "L12 -- v3 - v1"
+   },
+   {
+      "source": "v1",
+      "target": "μ2",
+      "edge_type": "-1",
+      "id": "L13",
+      "name": "L13 -- v1 - μ2"
+   },
+   {
+      "source": "μ2",
+      "target": "μ2",
+      "edge_type": "C2",
+      "id": "L14",
+      "name": "L14 -- μ2 - μ2"
+   },
+   {
+      "source": "v2",
+      "target": "μ2",
+      "edge_type": "1",
+      "id": "L15",
+      "name": "L15 -- v2 - μ2"
+   },
+   {
+      "source": "μ3",
+      "target": "μ2",
+      "edge_type": "0",
+      "id": "L16",
+      "name": "L16 -- μ3 - μ2"
+   },
+   {
+      "source": "v3",
+      "target": "μ2",
+      "edge_type": "0",
+      "id": "L17",
+      "name": "L17 -- v3 - μ2"
+   },
+   {
+      "source": "μ2",
+      "target": "v2",
+      "edge_type": "-1",
+      "id": "L18",
+      "name": "L18 -- μ2 - v2"
+   },
+   {
+      "source": "v2",
+      "target": "v2",
+      "edge_type": "R2_l2",
+      "id": "L19",
+      "name": "L19 -- v2 - v2"
+   },
+   {
+      "source": "μ3",
+      "target": "v2",
+      "edge_type": "1",
+      "id": "L20",
+      "name": "L20 -- μ3 - v2"
+   },
+   {
+      "source": "v3",
+      "target": "v2",
+      "edge_type": "0",
+      "id": "L21",
+      "name": "L21 -- v3 - v2"
+   },
+   {
+      "source": "v2",
+      "target": "μ3",
+      "edge_type": "-1",
+      "id": "L22",
+      "name": "L22 -- v2 - μ3"
+   },
+   {
+      "source": "μ3",
+      "target": "μ3",
+      "edge_type": "C3",
+      "id": "L23",
+      "name": "L23 -- μ3 - μ3"
+   },
+   {
+      "source": "v3",
+      "target": "μ3",
+      "edge_type": "1",
+      "id": "L24",
+      "name": "L24 -- v3 - μ3"
+   },
+   {
+      "source": "μ3",
+      "target": "v3",
+      "edge_type": "0",
+      "id": "L25",
+      "name": "L25 -- μ3 - v3"
+   }
+]

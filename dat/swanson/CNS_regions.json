@@ -1,0 +1,2218 @@
+[
+   {
+      "name": "CENTRAL NERVOUS SYSTEM [RAT]",
+      "children": [
+         {
+            "name": "Endbrain",
+            "children": [
+               {
+                  "name": "Cerebral nuclei",
+                  "children": [
+                     {
+                        "name": "Pallidum",
+                        "children": [
+                           {
+                              "name": "Globus pallidus",
+                              "children": [
+                                 {
+                                    "name": "Medial globus pallidus",
+                                    "children": [
+                                       {
+                                          "name": "Lateral globus pallidus",
+                                          "nameLower": "lateral globus pallidus"
+                                       }
+                                    ],
+                                    "nameLower": "medial globus pallidus"
+                                 },
+                                 {
+                                    "name": "Innominate substance",
+                                    "nameLower": "innominate substance"
+                                 },
+                                 {
+                                    "name": "Magnocellular nucleus",
+                                    "nameLower": "magnocellular nucleus"
+                                 },
+                                 {
+                                    "name": "Medial septal complex",
+                                    "children": [
+                                       {
+                                          "name": "Medial septal nucleus",
+                                          "nameLower": "medial septal nucleus"
+                                       },
+                                       {
+                                          "name": "Diagonal band nucleus",
+                                          "nameLower": "diagonal band nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "medial septal complex"
+                                 },
+                                 {
+                                    "name": "Triangular septal nucleus",
+                                    "children": [
+                                       {
+                                          "name": "bed nucleus of medullary stria",
+                                          "nameLower": "bed nucleus of medullary stria"
+                                       }
+                                    ],
+                                    "nameLower": "triangular septal nucleus"
+                                 },
+                                 {
+                                    "name": "Bed nuclei of terminal stria",
+                                    "children": [
+                                       {
+                                          "name": "Anterior division",
+                                          "children": [
+                                             {
+                                                "name": "Anteromedial area",
+                                                "nameLower": "anteromedial area"
+                                             },
+                                             {
+                                                "name": "Fusiform nucleus",
+                                                "nameLower": "fusiform nucleus"
+                                             },
+                                             {
+                                                "name": "Ventral nucleus",
+                                                "nameLower": "ventral nucleus"
+                                             },
+                                             {
+                                                "name": "Magnocellular nucleus",
+                                                "nameLower": "magnocellular nucleus"
+                                             },
+                                             {
+                                                "name": "Dorsomedial nucleus",
+                                                "nameLower": "dorsomedial nucleus"
+                                             },
+                                             {
+                                                "name": "Anterolateral area",
+                                                "nameLower": "anterolateral area"
+                                             },
+                                             {
+                                                "name": "Oval nucleus",
+                                                "nameLower": "oval nucleus"
+                                             },
+                                             {
+                                                "name": "Juxtacapsular nucleus",
+                                                "nameLower": "juxtacapsular nucleus"
+                                             },
+                                             {
+                                                "name": "Rhomboid nucleus",
+                                                "nameLower": "rhomboid nucleus"
+                                             }
+                                          ],
+                                          "nameLower": "anterior division"
+                                       },
+                                       {
+                                          "name": "Posterior division",
+                                          "children": [
+                                             {
+                                                "name": "Principal nucleus",
+                                                "children": [
+                                                   {
+                                                      "name": "cell-sparse zone",
+                                                      "nameLower": "cell-sparse zone"
+                                                   }
+                                                ],
+                                                "nameLower": "principal nucleus"
+                                             },
+                                             {
+                                                "name": "Interfascicular nucleus",
+                                                "children": [
+                                                   {
+                                                      "name": "premedullary nucleus",
+                                                      "nameLower": "premedullary nucleus"
+                                                   }
+                                                ],
+                                                "nameLower": "interfascicular nucleus"
+                                             },
+                                             {
+                                                "name": "Transverse nucleus",
+                                                "nameLower": "transverse nucleus"
+                                             },
+                                             {
+                                                "name": "Dorsal nucleus",
+                                                "nameLower": "dorsal nucleus"
+                                             },
+                                             {
+                                                "name": "Strial extension",
+                                                "nameLower": "strial extension"
+                                             }
+                                          ],
+                                          "nameLower": "posterior division"
+                                       }
+                                    ],
+                                    "nameLower": "bed nuclei of terminal stria"
+                                 },
+                                 {
+                                    "name": "Bed nucleus of anterior commissure",
+                                    "nameLower": "bed nucleus of anterior commissure"
+                                 }
+                              ],
+                              "nameLower": "globus pallidus"
+                           },
+                           {
+                              "name": "Striatum",
+                              "children": [
+                                 {
+                                    "name": "Olfactory tubercle",
+                                    "children": [
+                                       {
+                                          "name": "molecular layer",
+                                          "nameLower": "molecular layer"
+                                       },
+                                       {
+                                          "name": "pyramidal layer",
+                                          "nameLower": "pyramidal layer"
+                                       },
+                                       {
+                                          "name": "polymorph layer",
+                                          "nameLower": "polymorph layer"
+                                       },
+                                       {
+                                          "name": "islands of Calleja",
+                                          "nameLower": "islands of calleja"
+                                       },
+                                       {
+                                          "name": "major island of Calleja",
+                                          "nameLower": "major island of calleja"
+                                       }
+                                    ],
+                                    "nameLower": "olfactory tubercle"
+                                 },
+                                 {
+                                    "name": "Accumbens nucleus",
+                                    "nameLower": "accumbens nucleus"
+                                 },
+                                 {
+                                    "name": "Lateral septal complex",
+                                    "children": [
+                                       {
+                                          "name": "Lateral septal nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Rostral",
+                                                "children": [
+                                                   {
+                                                      "name": "Medial zone",
+                                                      "children": [
+                                                         {
+                                                            "name": "Ventral region",
+                                                            "children": [
+                                                               {
+                                                                  "name": "rostral domain",
+                                                                  "nameLower": "rostral domain"
+                                                               },
+                                                               {
+                                                                  "name": "caudal domain",
+                                                                  "nameLower": "caudal domain"
+                                                               }
+                                                            ],
+                                                            "nameLower": "ventral region"
+                                                         },
+                                                         {
+                                                            "name": "Dorsal region",
+                                                            "nameLower": "dorsal region"
+                                                         }
+                                                      ],
+                                                      "nameLower": "medial zone"
+                                                   },
+                                                   {
+                                                      "name": "Ventrolateral zone",
+                                                      "children": [
+                                                         {
+                                                            "name": "ventral region",
+                                                            "nameLower": "ventral region"
+                                                         },
+                                                         {
+                                                            "name": "dorsal region",
+                                                            "children": [
+                                                               {
+                                                                  "name": "medial domain",
+                                                                  "nameLower": "medial domain"
+                                                               },
+                                                               {
+                                                                  "name": "lateral domain",
+                                                                  "nameLower": "lateral domain"
+                                                               }
+                                                            ],
+                                                            "nameLower": "dorsal region"
+                                                         }
+                                                      ],
+                                                      "nameLower": "ventrolateral zone"
+                                                   },
+                                                   {
+                                                      "name": "Dorsolateral zone",
+                                                      "children": [
+                                                         {
+                                                            "name": "medial region",
+                                                            "children": [
+                                                               {
+                                                                  "name": "ventral domain",
+                                                                  "nameLower": "ventral domain"
+                                                               },
+                                                               {
+                                                                  "name": "dorsal domain",
+                                                                  "nameLower": "dorsal domain"
+                                                               }
+                                                            ],
+                                                            "nameLower": "medial region"
+                                                         },
+                                                         {
+                                                            "name": "lateral region",
+                                                            "children": [
+                                                               {
+                                                                  "name": "ventral domain",
+                                                                  "nameLower": "ventral domain"
+                                                               },
+                                                               {
+                                                                  "name": "dorsal domain",
+                                                                  "nameLower": "dorsal domain"
+                                                               }
+                                                            ],
+                                                            "nameLower": "lateral region"
+                                                         }
+                                                      ],
+                                                      "nameLower": "dorsolateral zone"
+                                                   }
+                                                ],
+                                                "nameLower": "rostral"
+                                             },
+                                             {
+                                                "name": "Caudal",
+                                                "children": [
+                                                   {
+                                                      "name": "Ventral zone",
+                                                      "children": [
+                                                         {
+                                                            "name": "medial region",
+                                                            "children": [
+                                                               {
+                                                                  "name": "ventral domain",
+                                                                  "nameLower": "ventral domain"
+                                                               },
+                                                               {
+                                                                  "name": "dorsal domain",
+                                                                  "nameLower": "dorsal domain"
+                                                               }
+                                                            ],
+                                                            "nameLower": "medial region"
+                                                         },
+                                                         {
+                                                            "name": "intermediate region",
+                                                            "nameLower": "intermediate region"
+                                                         },
+                                                         {
+                                                            "name": "lateral region",
+                                                            "children": [
+                                                               {
+                                                                  "name": "ventral domain",
+                                                                  "nameLower": "ventral domain"
+                                                               },
+                                                               {
+                                                                  "name": "dorsal domain",
+                                                                  "nameLower": "dorsal domain"
+                                                               }
+                                                            ],
+                                                            "nameLower": "lateral region"
+                                                         }
+                                                      ],
+                                                      "nameLower": "ventral zone"
+                                                   },
+                                                   {
+                                                      "name": "Dorsal zone",
+                                                      "children": [
+                                                         {
+                                                            "name": "rostral region",
+                                                            "nameLower": "rostral region"
+                                                         },
+                                                         {
+                                                            "name": "dorsal region",
+                                                            "nameLower": "dorsal region"
+                                                         },
+                                                         {
+                                                            "name": "lateral region",
+                                                            "nameLower": "lateral region"
+                                                         },
+                                                         {
+                                                            "name": "ventral region",
+                                                            "nameLower": "ventral region"
+                                                         }
+                                                      ],
+                                                      "nameLower": "dorsal zone"
+                                                   }
+                                                ],
+                                                "nameLower": "caudal"
+                                             },
+                                             {
+                                                "name": "Ventral part",
+                                                "nameLower": "ventral part"
+                                             }
+                                          ],
+                                          "nameLower": "lateral septal nucleus"
+                                       },
+                                       {
+                                          "name": "Septohippocampal nucleus",
+                                          "nameLower": "septohippocampal nucleus"
+                                       },
+                                       {
+                                          "name": "Septofimbrial nucleus",
+                                          "nameLower": "septofimbrial nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "lateral septal complex"
+                                 },
+                                 {
+                                    "name": "Striatal fundus",
+                                    "nameLower": "striatal fundus"
+                                 },
+                                 {
+                                    "name": "Caudoputamen",
+                                    "nameLower": "caudoputamen"
+                                 },
+                                 {
+                                    "name": "Anterior amygdalar area",
+                                    "nameLower": "anterior amygdalar area"
+                                 },
+                                 {
+                                    "name": "Central amygdalar nucleus",
+                                    "children": [
+                                       {
+                                          "name": "Medial part",
+                                          "nameLower": "medial part"
+                                       },
+                                       {
+                                          "name": "Lateral part",
+                                          "nameLower": "lateral part"
+                                       },
+                                       {
+                                          "name": "Capsular part",
+                                          "nameLower": "capsular part"
+                                       }
+                                    ],
+                                    "nameLower": "central amygdalar nucleus"
+                                 },
+                                 {
+                                    "name": "Intercalated amygdalar nuclei",
+                                    "nameLower": "intercalated amygdalar nuclei"
+                                 },
+                                 {
+                                    "name": "Medial amygdalar nucleus",
+                                    "children": [
+                                       {
+                                          "name": "Anteroventral part",
+                                          "nameLower": "anteroventral part"
+                                       },
+                                       {
+                                          "name": "Anterodorsal part",
+                                          "nameLower": "anterodorsal part"
+                                       },
+                                       {
+                                          "name": "Posteroventral part",
+                                          "nameLower": "posteroventral part"
+                                       },
+                                       {
+                                          "name": "Posterodorsal part",
+                                          "children": [
+                                             {
+                                                "name": "sublayer a",
+                                                "nameLower": "sublayer a"
+                                             },
+                                             {
+                                                "name": "sublayer b",
+                                                "nameLower": "sublayer b"
+                                             },
+                                             {
+                                                "name": "sublayer c",
+                                                "nameLower": "sublayer c"
+                                             }
+                                          ],
+                                          "nameLower": "posterodorsal part"
+                                       },
+                                       {
+                                          "name": "Bed nucleus of accessory olfactory tract",
+                                          "nameLower": "bed nucleus of accessory olfactory tract"
+                                       }
+                                    ],
+                                    "nameLower": "medial amygdalar nucleus"
+                                 }
+                              ],
+                              "nameLower": "striatum"
+                           }
+                        ],
+                        "nameLower": "pallidum"
+                     },
+                     {
+                        "name": "Cerebral cortex",
+                        "children": [
+                           {
+                              "name": "Cortical plate",
+                              "children": [
+                                 {
+                                    "name": "Limbic region",
+                                    "children": [
+                                       {
+                                          "name": "Olfactory region",
+                                          "children": [
+                                             {
+                                                "name": "Olfactory bulb",
+                                                "children": [
+                                                   {
+                                                      "name": "Main olfactory bulb",
+                                                      "children": [
+                                                         {
+                                                            "name": "glomerular layer",
+                                                            "nameLower": "glomerular layer"
+                                                         },
+                                                         {
+                                                            "name": "outer plexiform layer",
+                                                            "nameLower": "outer plexiform layer"
+                                                         },
+                                                         {
+                                                            "name": "mitral layer",
+                                                            "nameLower": "mitral layer"
+                                                         },
+                                                         {
+                                                            "name": "inner plexiform layer",
+                                                            "nameLower": "inner plexiform layer"
+                                                         },
+                                                         {
+                                                            "name": "granule cell layer",
+                                                            "nameLower": "granule cell layer"
+                                                         }
+                                                      ],
+                                                      "nameLower": "main olfactory bulb"
+                                                   },
+                                                   {
+                                                      "name": "Accessory olfactory bulb",
+                                                      "children": [
+                                                         {
+                                                            "name": "glomerular layer",
+                                                            "nameLower": "glomerular layer"
+                                                         },
+                                                         {
+                                                            "name": "mitral layer",
+                                                            "nameLower": "mitral layer"
+                                                         },
+                                                         {
+                                                            "name": "granular layer",
+                                                            "nameLower": "granular layer"
+                                                         }
+                                                      ],
+                                                      "nameLower": "accessory olfactory bulb"
+                                                   }
+                                                ],
+                                                "nameLower": "olfactory bulb"
+                                             },
+                                             {
+                                                "name": "Anterior olfactory area",
+                                                "children": [
+                                                   {
+                                                      "name": "anterior olfactory area principal part",
+                                                      "nameLower": "anterior olfactory area principal part"
+                                                   }
+                                                ],
+                                                "nameLower": "anterior olfactory area"
+                                             }
+                                          ],
+                                          "nameLower": "olfactory region"
+                                       }
+                                    ],
+                                    "nameLower": "limbic region"
+                                 }
+                              ],
+                              "nameLower": "cortical plate"
+                           }
+                        ],
+                        "nameLower": "cerebral cortex"
+                     }
+                  ],
+                  "nameLower": "cerebral nuclei"
+               }
+            ],
+            "nameLower": "endbrain"
+         },
+         {
+            "name": "",
+            "children": [
+               {
+                  "name": "Preparasubthalamic nucleus",
+                  "children": [
+                     {
+                        "name": "Parasubthalamic nucleus",
+                        "children": [
+                           {
+                              "name": "Subthalamic nucleus",
+                              "nameLower": "subthalamic nucleus"
+                           },
+                           {
+                              "name": "Retina",
+                              "children": [
+                                 {
+                                    "name": "ganglion cell layer",
+                                    "nameLower": "ganglion cell layer"
+                                 },
+                                 {
+                                    "name": "inner plexiform layer",
+                                    "nameLower": "inner plexiform layer"
+                                 },
+                                 {
+                                    "name": "inner nuclear layer",
+                                    "nameLower": "inner nuclear layer"
+                                 },
+                                 {
+                                    "name": "outer plexiform layer",
+                                    "nameLower": "outer plexiform layer"
+                                 },
+                                 {
+                                    "name": "outer nuclear layer",
+                                    "nameLower": "outer nuclear layer"
+                                 }
+                              ],
+                              "nameLower": "retina"
+                           }
+                        ],
+                        "nameLower": "parasubthalamic nucleus"
+                     },
+                     {
+                        "name": "Thalamus",
+                        "children": [
+                           {
+                              "name": "Ventral part of thalamus",
+                              "children": [
+                                 {
+                                    "name": "Zona incerta general",
+                                    "children": [
+                                       {
+                                          "name": "Zona incerta",
+                                          "children": [
+                                             {
+                                                "name": "dopaminergic group",
+                                                "nameLower": "dopaminergic group"
+                                             }
+                                          ],
+                                          "nameLower": "zona incerta"
+                                       },
+                                       {
+                                          "name": "Fields of Forel",
+                                          "nameLower": "fields of forel"
+                                       }
+                                    ],
+                                    "nameLower": "zona incerta general"
+                                 },
+                                 {
+                                    "name": "Ventral lateral geniculate nucleus",
+                                    "children": [
+                                       {
+                                          "name": "medial zone",
+                                          "nameLower": "medial zone"
+                                       },
+                                       {
+                                          "name": "lateral zone",
+                                          "nameLower": "lateral zone"
+                                       }
+                                    ],
+                                    "nameLower": "ventral lateral geniculate nucleus"
+                                 },
+                                 {
+                                    "name": "Intergeniculate leaflet",
+                                    "nameLower": "intergeniculate leaflet"
+                                 },
+                                 {
+                                    "name": "Reticular thalamic nucleus",
+                                    "nameLower": "reticular thalamic nucleus"
+                                 }
+                              ],
+                              "nameLower": "ventral part of thalamus"
+                           },
+                           {
+                              "name": "Dorsal part of thalamus",
+                              "children": [
+                                 {
+                                    "name": "Midline thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Nucleus reuniens",
+                                          "children": [
+                                             {
+                                                "name": "Rostral division",
+                                                "children": [
+                                                   {
+                                                      "name": "anterior part",
+                                                      "nameLower": "anterior part"
+                                                   },
+                                                   {
+                                                      "name": "dorsal part",
+                                                      "nameLower": "dorsal part"
+                                                   },
+                                                   {
+                                                      "name": "ventral part",
+                                                      "nameLower": "ventral part"
+                                                   },
+                                                   {
+                                                      "name": "lateral part",
+                                                      "nameLower": "lateral part"
+                                                   },
+                                                   {
+                                                      "name": "median part",
+                                                      "nameLower": "median part"
+                                                   }
+                                                ],
+                                                "nameLower": "rostral division"
+                                             },
+                                             {
+                                                "name": "Caudal division",
+                                                "children": [
+                                                   {
+                                                      "name": "posterior part",
+                                                      "nameLower": "posterior part"
+                                                   },
+                                                   {
+                                                      "name": "dorsal part",
+                                                      "nameLower": "dorsal part"
+                                                   },
+                                                   {
+                                                      "name": "median part",
+                                                      "nameLower": "median part"
+                                                   }
+                                                ],
+                                                "nameLower": "caudal division"
+                                             }
+                                          ],
+                                          "nameLower": "nucleus reuniens"
+                                       },
+                                       {
+                                          "name": "Paraventricular thalamic nucleus",
+                                          "nameLower": "paraventricular thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Paratenial nucleus",
+                                          "nameLower": "paratenial nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "midline thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Anterior thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Anteroventral thalamic nucleus",
+                                          "nameLower": "anteroventral thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Anterodorsal thalamic nucleus",
+                                          "nameLower": "anterodorsal thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Anteromedial thalamic nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Ventral part",
+                                                "nameLower": "ventral part"
+                                             },
+                                             {
+                                                "name": "Dorsal part",
+                                                "nameLower": "dorsal part"
+                                             }
+                                          ],
+                                          "nameLower": "anteromedial thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Interanteromedial thalamic nucleus",
+                                          "nameLower": "interanteromedial thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Interanterodorsal thalamic nucleus",
+                                          "nameLower": "interanterodorsal thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Lateral dorsal thalamic nucleus",
+                                          "nameLower": "lateral dorsal thalamic nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "anterior thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Medial thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Perireuniens nucleus",
+                                          "nameLower": "perireuniens nucleus"
+                                       },
+                                       {
+                                          "name": "Submedial thalamic nucleus",
+                                          "nameLower": "submedial thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Mediodorsal thalamic nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Medial part",
+                                                "nameLower": "medial part"
+                                             },
+                                             {
+                                                "name": "Central part",
+                                                "nameLower": "central part"
+                                             },
+                                             {
+                                                "name": "Lateral part",
+                                                "nameLower": "lateral part"
+                                             },
+                                             {
+                                                "name": "Intermediodorsal thalamic nucleus",
+                                                "nameLower": "intermediodorsal thalamic nucleus"
+                                             }
+                                          ],
+                                          "nameLower": "mediodorsal thalamic nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "medial thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Intralaminar thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Rhomboid nucleus",
+                                          "nameLower": "rhomboid nucleus"
+                                       },
+                                       {
+                                          "name": "Central medial thalamic nucleus",
+                                          "nameLower": "central medial thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Paracentral thalamic nucleus",
+                                          "nameLower": "paracentral thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Central lateral thalamic nucleus",
+                                          "nameLower": "central lateral thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Parafascicular nucleus",
+                                          "nameLower": "parafascicular nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "intralaminar thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Ventral thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Ventral anterior-lateral thalamic complex",
+                                          "nameLower": "ventral anterior-lateral thalamic complex"
+                                       },
+                                       {
+                                          "name": "Ventral medial thalamic nucleus",
+                                          "nameLower": "ventral medial thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Ventral posterior thalamic nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Ventral posteromedial thalamic nucleus",
+                                                "children": [
+                                                   {
+                                                      "name": "Principal part",
+                                                      "nameLower": "principal part"
+                                                   },
+                                                   {
+                                                      "name": "Parvicellular part",
+                                                      "nameLower": "parvicellular part"
+                                                   }
+                                                ],
+                                                "nameLower": "ventral posteromedial thalamic nucleus"
+                                             },
+                                             {
+                                                "name": "Ventral posterolateral thalamic nucleus",
+                                                "children": [
+                                                   {
+                                                      "name": "Principal part",
+                                                      "nameLower": "principal part"
+                                                   },
+                                                   {
+                                                      "name": "Parvicellular part",
+                                                      "nameLower": "parvicellular part"
+                                                   }
+                                                ],
+                                                "nameLower": "ventral posterolateral thalamic nucleus"
+                                             }
+                                          ],
+                                          "nameLower": "ventral posterior thalamic nucleus"
+                                       },
+                                       {
+                                          "name": "Subparafascicular nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Magnocellular part",
+                                                "nameLower": "magnocellular part"
+                                             },
+                                             {
+                                                "name": "Parvicellular part",
+                                                "children": [
+                                                   {
+                                                      "name": "medial division",
+                                                      "nameLower": "medial division"
+                                                   },
+                                                   {
+                                                      "name": "lateral division",
+                                                      "nameLower": "lateral division"
+                                                   }
+                                                ],
+                                                "nameLower": "parvicellular part"
+                                             }
+                                          ],
+                                          "nameLower": "subparafascicular nucleus"
+                                       },
+                                       {
+                                          "name": "Peripeduncular nucleus",
+                                          "nameLower": "peripeduncular nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "ventral thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Lateral thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Lateral posterior thalamic nucleus",
+                                          "nameLower": "lateral posterior thalamic nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "lateral thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Posterior thalamic nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Posterior thalamic complex",
+                                          "nameLower": "posterior thalamic complex"
+                                       },
+                                       {
+                                          "name": "Suprageniculate nucleus",
+                                          "nameLower": "suprageniculate nucleus"
+                                       },
+                                       {
+                                          "name": "Posterior limiting thalamic nucleus",
+                                          "nameLower": "posterior limiting thalamic nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "posterior thalamic nuclei"
+                                 },
+                                 {
+                                    "name": "Dorsal lateral geniculate nucleus",
+                                    "nameLower": "dorsal lateral geniculate nucleus"
+                                 },
+                                 {
+                                    "name": "Medial geniculate complex",
+                                    "children": [
+                                       {
+                                          "name": "Medial part",
+                                          "nameLower": "medial part"
+                                       },
+                                       {
+                                          "name": "Ventral part",
+                                          "nameLower": "ventral part"
+                                       },
+                                       {
+                                          "name": "Dorsal part",
+                                          "nameLower": "dorsal part"
+                                       }
+                                    ],
+                                    "nameLower": "medial geniculate complex"
+                                 }
+                              ],
+                              "nameLower": "dorsal part of thalamus"
+                           },
+                           {
+                              "name": "Epithalamus",
+                              "children": [
+                                 {
+                                    "name": "Habenular nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Medial habenula",
+                                          "nameLower": "medial habenula"
+                                       },
+                                       {
+                                          "name": "Lateral habenula",
+                                          "nameLower": "lateral habenula"
+                                       }
+                                    ],
+                                    "nameLower": "habenular nuclei"
+                                 }
+                              ],
+                              "nameLower": "epithalamus"
+                           }
+                        ],
+                        "nameLower": "thalamus"
+                     }
+                  ],
+                  "nameLower": "preparasubthalamic nucleus"
+               },
+               {
+                  "name": "Midbrain",
+                  "children": [
+                     {
+                        "name": "Tegmentum",
+                        "children": [
+                           {
+                              "name": "Oculomotor nucleus",
+                              "nameLower": "oculomotor nucleus"
+                           },
+                           {
+                              "name": "Trochlear nucleus",
+                              "nameLower": "trochlear nucleus"
+                           },
+                           {
+                              "name": "Medial accessory oculomotor nucleus",
+                              "nameLower": "medial accessory oculomotor nucleus"
+                           },
+                           {
+                              "name": "Edinger-Westphal nucleus",
+                              "nameLower": "edinger-westphal nucleus"
+                           },
+                           {
+                              "name": "Nucleus of Darkschewitsch",
+                              "nameLower": "nucleus of darkschewitsch"
+                           },
+                           {
+                              "name": "Interstitial nucleus",
+                              "nameLower": "interstitial nucleus"
+                           },
+                           {
+                              "name": "Medial terminal nucleus of accessory optic tract",
+                              "nameLower": "medial terminal nucleus of accessory optic tract"
+                           },
+                           {
+                              "name": "Lateral terminal nucleus of accessory optic tract",
+                              "nameLower": "lateral terminal nucleus of accessory optic tract"
+                           },
+                           {
+                              "name": "Dorsal terminal nucleus of accessory optic tract",
+                              "nameLower": "dorsal terminal nucleus of accessory optic tract"
+                           },
+                           {
+                              "name": "Rostral linear raphe nucleus",
+                              "nameLower": "rostral linear raphe nucleus"
+                           },
+                           {
+                              "name": "Interfascicular raphe nucleus",
+                              "nameLower": "interfascicular raphe nucleus"
+                           },
+                           {
+                              "name": "Interpeduncular nucleus",
+                              "children": [
+                                 {
+                                    "name": "rostral subnucleus",
+                                    "nameLower": "rostral subnucleus"
+                                 },
+                                 {
+                                    "name": "apical subnucleus",
+                                    "nameLower": "apical subnucleus"
+                                 },
+                                 {
+                                    "name": "dorsomedial subnucleus",
+                                    "nameLower": "dorsomedial subnucleus"
+                                 },
+                                 {
+                                    "name": "lateral subnucleus",
+                                    "children": [
+                                       {
+                                          "name": "rostral part",
+                                          "nameLower": "rostral part"
+                                       },
+                                       {
+                                          "name": "intermediate part",
+                                          "nameLower": "intermediate part"
+                                       },
+                                       {
+                                          "name": "ventral part",
+                                          "nameLower": "ventral part"
+                                       },
+                                       {
+                                          "name": "dorsal part",
+                                          "nameLower": "dorsal part"
+                                       }
+                                    ],
+                                    "nameLower": "lateral subnucleus"
+                                 },
+                                 {
+                                    "name": "intermediate subnucleus",
+                                    "nameLower": "intermediate subnucleus"
+                                 },
+                                 {
+                                    "name": "central subnucleus",
+                                    "nameLower": "central subnucleus"
+                                 }
+                              ],
+                              "nameLower": "interpeduncular nucleus"
+                           },
+                           {
+                              "name": "Central linear raphe nucleus",
+                              "nameLower": "central linear raphe nucleus"
+                           },
+                           {
+                              "name": "Superior central raphe nucleus",
+                              "children": [
+                                 {
+                                    "name": "medial part",
+                                    "nameLower": "medial part"
+                                 },
+                                 {
+                                    "name": "lateral part",
+                                    "nameLower": "lateral part"
+                                 }
+                              ],
+                              "nameLower": "superior central raphe nucleus"
+                           },
+                           {
+                              "name": "Dorsal raphe nucleus",
+                              "nameLower": "dorsal raphe nucleus"
+                           },
+                           {
+                              "name": "Substantia nigra",
+                              "children": [
+                                 {
+                                    "name": "Compact part",
+                                    "nameLower": "compact part"
+                                 },
+                                 {
+                                    "name": "Reticular part",
+                                    "nameLower": "reticular part"
+                                 }
+                              ],
+                              "nameLower": "substantia nigra"
+                           },
+                           {
+                              "name": "Ventral tegmental area",
+                              "nameLower": "ventral tegmental area"
+                           },
+                           {
+                              "name": "Red nucleus",
+                              "nameLower": "red nucleus"
+                           },
+                           {
+                              "name": "Anterior tegmental nucleus",
+                              "nameLower": "anterior tegmental nucleus"
+                           },
+                           {
+                              "name": "Midbrain reticular nucleus",
+                              "children": [
+                                 {
+                                    "name": "Magnocellular part",
+                                    "nameLower": "magnocellular part"
+                                 },
+                                 {
+                                    "name": "Parvicellular part",
+                                    "nameLower": "parvicellular part"
+                                 },
+                                 {
+                                    "name": "Retrorubral area",
+                                    "nameLower": "retrorubral area"
+                                 }
+                              ],
+                              "nameLower": "midbrain reticular nucleus"
+                           },
+                           {
+                              "name": "Periaqueductal gray",
+                              "children": [
+                                 {
+                                    "name": "Precommissural nucleus",
+                                    "nameLower": "precommissural nucleus"
+                                 },
+                                 {
+                                    "name": "Commissural nucleus",
+                                    "nameLower": "commissural nucleus"
+                                 },
+                                 {
+                                    "name": "Rostromedial division",
+                                    "nameLower": "rostromedial division"
+                                 },
+                                 {
+                                    "name": "Rostrolateral division",
+                                    "nameLower": "rostrolateral division"
+                                 },
+                                 {
+                                    "name": "Medial division",
+                                    "nameLower": "medial division"
+                                 },
+                                 {
+                                    "name": "Ventromedial column",
+                                    "nameLower": "ventromedial column"
+                                 },
+                                 {
+                                    "name": "Ventrolateral column",
+                                    "nameLower": "ventrolateral column"
+                                 },
+                                 {
+                                    "name": "Lateral column",
+                                    "nameLower": "lateral column"
+                                 },
+                                 {
+                                    "name": "Dorsolateral column",
+                                    "nameLower": "dorsolateral column"
+                                 },
+                                 {
+                                    "name": "Dorsomedial column",
+                                    "nameLower": "dorsomedial column"
+                                 }
+                              ],
+                              "nameLower": "periaqueductal gray"
+                           },
+                           {
+                              "name": "Cuneiform nucleus",
+                              "nameLower": "cuneiform nucleus"
+                           },
+                           {
+                              "name": "Pretectal region",
+                              "children": [
+                                 {
+                                    "name": "Olivary pretectal nucleus",
+                                    "nameLower": "olivary pretectal nucleus"
+                                 },
+                                 {
+                                    "name": "Nucleus of optic tract",
+                                    "nameLower": "nucleus of optic tract"
+                                 },
+                                 {
+                                    "name": "Posterior pretectal nucleus",
+                                    "nameLower": "posterior pretectal nucleus"
+                                 },
+                                 {
+                                    "name": "Nucleus of posterior commissure",
+                                    "nameLower": "nucleus of posterior commissure"
+                                 },
+                                 {
+                                    "name": "Anterior pretectal nucleus",
+                                    "nameLower": "anterior pretectal nucleus"
+                                 },
+                                 {
+                                    "name": "Medial pretectal area",
+                                    "nameLower": "medial pretectal area"
+                                 }
+                              ],
+                              "nameLower": "pretectal region"
+                           },
+                           {
+                              "name": "Midbrain nucleus of trigeminal nerve",
+                              "nameLower": "midbrain nucleus of trigeminal nerve"
+                           },
+                           {
+                              "name": "Nucleus sagulum",
+                              "nameLower": "nucleus sagulum"
+                           },
+                           {
+                              "name": "Parabigeminal nucleus",
+                              "nameLower": "parabigeminal nucleus"
+                           },
+                           {
+                              "name": "Nucleus of brachium of inferior colliculus",
+                              "nameLower": "nucleus of brachium of inferior colliculus"
+                           }
+                        ],
+                        "nameLower": "tegmentum"
+                     },
+                     {
+                        "name": "Tectum",
+                        "children": [
+                           {
+                              "name": "Superior colliculus",
+                              "children": [
+                                 {
+                                    "name": "zonal layer",
+                                    "nameLower": "zonal layer"
+                                 },
+                                 {
+                                    "name": "superficial gray layer",
+                                    "nameLower": "superficial gray layer"
+                                 },
+                                 {
+                                    "name": "sublayer a of intermediate gray layer",
+                                    "nameLower": "sublayer a of intermediate gray layer"
+                                 },
+                                 {
+                                    "name": "sublayer b of intermediate gray layer",
+                                    "nameLower": "sublayer b of intermediate gray layer"
+                                 },
+                                 {
+                                    "name": "sublayer c of intermediate gray layer",
+                                    "nameLower": "sublayer c of intermediate gray layer"
+                                 },
+                                 {
+                                    "name": "deep gray layer",
+                                    "nameLower": "deep gray layer"
+                                 }
+                              ],
+                              "nameLower": "superior colliculus"
+                           },
+                           {
+                              "name": "Inferior colliculus",
+                              "children": [
+                                 {
+                                    "name": "Central nucleus",
+                                    "nameLower": "central nucleus"
+                                 },
+                                 {
+                                    "name": "Dorsal nucleus",
+                                    "nameLower": "dorsal nucleus"
+                                 },
+                                 {
+                                    "name": "External nucleus",
+                                    "nameLower": "external nucleus"
+                                 }
+                              ],
+                              "nameLower": "inferior colliculus"
+                           }
+                        ],
+                        "nameLower": "tectum"
+                     }
+                  ],
+                  "nameLower": "midbrain"
+               },
+               {
+                  "name": "Rhombic brain",
+                  "children": [
+                     {
+                        "name": "Hindbrain",
+                        "children": [
+                           {
+                              "name": "Pons",
+                              "children": [
+                                 {
+                                    "name": "Abducens nucleus",
+                                    "nameLower": "abducens nucleus"
+                                 },
+                                 {
+                                    "name": "Accessory abducens nucleus",
+                                    "nameLower": "accessory abducens nucleus"
+                                 },
+                                 {
+                                    "name": "Motor nucleus of trigeminal nerve",
+                                    "children": [
+                                       {
+                                          "name": "Magnocellular part",
+                                          "nameLower": "magnocellular part"
+                                       },
+                                       {
+                                          "name": "Parvicellular part",
+                                          "nameLower": "parvicellular part"
+                                       }
+                                    ],
+                                    "nameLower": "motor nucleus of trigeminal nerve"
+                                 },
+                                 {
+                                    "name": "Efferent vestibular nucleus",
+                                    "nameLower": "efferent vestibular nucleus"
+                                 },
+                                 {
+                                    "name": "Pontine nuclei, general",
+                                    "children": [
+                                       {
+                                          "name": "Pontine nuclei",
+                                          "nameLower": "pontine nuclei"
+                                       },
+                                       {
+                                          "name": "Tegmental reticular nucleus",
+                                          "nameLower": "tegmental reticular nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "pontine nuclei, general"
+                                 },
+                                 {
+                                    "name": "Magnus raphe nucleus",
+                                    "nameLower": "magnus raphe nucleus"
+                                 },
+                                 {
+                                    "name": "Pontine raphe nucleus",
+                                    "nameLower": "pontine raphe nucleus"
+                                 },
+                                 {
+                                    "name": "Pontine reticular nucleus",
+                                    "children": [
+                                       {
+                                          "name": "Rostral part",
+                                          "nameLower": "rostral part"
+                                       },
+                                       {
+                                          "name": "Caudal part",
+                                          "nameLower": "caudal part"
+                                       }
+                                    ],
+                                    "nameLower": "pontine reticular nucleus"
+                                 },
+                                 {
+                                    "name": "Pedunculopontine nucleus",
+                                    "nameLower": "pedunculopontine nucleus"
+                                 },
+                                 {
+                                    "name": "Supratrigeminal nucleus",
+                                    "nameLower": "supratrigeminal nucleus"
+                                 },
+                                 {
+                                    "name": "Ventral tegmental nucleus",
+                                    "nameLower": "ventral tegmental nucleus"
+                                 },
+                                 {
+                                    "name": "Pontine central gray general",
+                                    "children": [
+                                       {
+                                          "name": "Pontine central gray",
+                                          "nameLower": "pontine central gray"
+                                       },
+                                       {
+                                          "name": "Nucleus incertus",
+                                          "children": [
+                                             {
+                                                "name": "compact part",
+                                                "nameLower": "compact part"
+                                             },
+                                             {
+                                                "name": "diffuse part",
+                                                "nameLower": "diffuse part"
+                                             }
+                                          ],
+                                          "nameLower": "nucleus incertus"
+                                       },
+                                       {
+                                          "name": "Lateral tegmental nucleus",
+                                          "nameLower": "lateral tegmental nucleus"
+                                       },
+                                       {
+                                          "name": "Dorsal tegmental nucleus",
+                                          "nameLower": "dorsal tegmental nucleus"
+                                       },
+                                       {
+                                          "name": "Sublaterodorsal nucleus",
+                                          "nameLower": "sublaterodorsal nucleus"
+                                       },
+                                       {
+                                          "name": "Laterodorsal tegmental nucleus",
+                                          "nameLower": "laterodorsal tegmental nucleus"
+                                       },
+                                       {
+                                          "name": "Barrington’s nucleus",
+                                          "nameLower": "barrington’s nucleus"
+                                       },
+                                       {
+                                          "name": "Subceruleus nucleus",
+                                          "nameLower": "subceruleus nucleus"
+                                       },
+                                       {
+                                          "name": "Locus ceruleus",
+                                          "nameLower": "locus ceruleus"
+                                       },
+                                       {
+                                          "name": "Supragenual nucleus",
+                                          "nameLower": "supragenual nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "pontine central gray general"
+                                 },
+                                 {
+                                    "name": "Parabrachial nucleus",
+                                    "children": [
+                                       {
+                                          "name": "Medial division",
+                                          "children": [
+                                             {
+                                                "name": "Ventral part",
+                                                "nameLower": "ventral part"
+                                             },
+                                             {
+                                                "name": "Medial part",
+                                                "nameLower": "medial part"
+                                             },
+                                             {
+                                                "name": "External part",
+                                                "nameLower": "external part"
+                                             }
+                                          ],
+                                          "nameLower": "medial division"
+                                       },
+                                       {
+                                          "name": "Kölliker-Fuse subnucleus",
+                                          "nameLower": "kölliker-fuse subnucleus"
+                                       },
+                                       {
+                                          "name": "Lateral division",
+                                          "children": [
+                                             {
+                                                "name": "Ventral part",
+                                                "nameLower": "ventral part"
+                                             },
+                                             {
+                                                "name": "Internal part",
+                                                "nameLower": "internal part"
+                                             },
+                                             {
+                                                "name": "Central part",
+                                                "nameLower": "central part"
+                                             },
+                                             {
+                                                "name": "External part",
+                                                "nameLower": "external part"
+                                             },
+                                             {
+                                                "name": "Extreme part",
+                                                "nameLower": "extreme part"
+                                             },
+                                             {
+                                                "name": "Superior part",
+                                                "nameLower": "superior part"
+                                             },
+                                             {
+                                                "name": "Dorsal part",
+                                                "nameLower": "dorsal part"
+                                             }
+                                          ],
+                                          "nameLower": "lateral division"
+                                       }
+                                    ],
+                                    "nameLower": "parabrachial nucleus"
+                                 },
+                                 {
+                                    "name": "Principal sensory nucleus of trigeminal nerve",
+                                    "nameLower": "principal sensory nucleus of trigeminal nerve"
+                                 },
+                                 {
+                                    "name": "Nucleus of lateral lemniscus",
+                                    "children": [
+                                       {
+                                          "name": "ventral part",
+                                          "nameLower": "ventral part"
+                                       },
+                                       {
+                                          "name": "horizontal part",
+                                          "nameLower": "horizontal part"
+                                       },
+                                       {
+                                          "name": "dorsal part",
+                                          "nameLower": "dorsal part"
+                                       }
+                                    ],
+                                    "nameLower": "nucleus of lateral lemniscus"
+                                 },
+                                 {
+                                    "name": "Superior olivary complex",
+                                    "children": [
+                                       {
+                                          "name": "medial part",
+                                          "nameLower": "medial part"
+                                       },
+                                       {
+                                          "name": "lateral part",
+                                          "nameLower": "lateral part"
+                                       },
+                                       {
+                                          "name": "periolivary region",
+                                          "nameLower": "periolivary region"
+                                       },
+                                       {
+                                          "name": "efferent cochlear group",
+                                          "nameLower": "efferent cochlear group"
+                                       }
+                                    ],
+                                    "nameLower": "superior olivary complex"
+                                 },
+                                 {
+                                    "name": "Nucleus of trapezoid body",
+                                    "nameLower": "nucleus of trapezoid body"
+                                 },
+                                 {
+                                    "name": "Superior vestibular nucleus",
+                                    "nameLower": "superior vestibular nucleus"
+                                 },
+                                 {
+                                    "name": "Lateral vestibular nucleus",
+                                    "nameLower": "lateral vestibular nucleus"
+                                 },
+                                 {
+                                    "name": "Nucleus y",
+                                    "nameLower": "nucleus y"
+                                 },
+                                 {
+                                    "name": "Infracerebellar nucleus",
+                                    "nameLower": "infracerebellar nucleus"
+                                 }
+                              ],
+                              "nameLower": "pons"
+                           },
+                           {
+                              "name": "Cerebellum",
+                              "children": [
+                                 {
+                                    "name": "Cerebellar nuclei",
+                                    "children": [
+                                       {
+                                          "name": "Fastigial nucleus",
+                                          "nameLower": "fastigial nucleus"
+                                       },
+                                       {
+                                          "name": "Interposed nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Principal part",
+                                                "nameLower": "principal part"
+                                             },
+                                             {
+                                                "name": "Parvicellular part",
+                                                "nameLower": "parvicellular part"
+                                             }
+                                          ],
+                                          "nameLower": "interposed nucleus"
+                                       },
+                                       {
+                                          "name": "Dentate nucleus",
+                                          "children": [
+                                             {
+                                                "name": "Magnocellular part",
+                                                "nameLower": "magnocellular part"
+                                             },
+                                             {
+                                                "name": "Parvicellular part",
+                                                "nameLower": "parvicellular part"
+                                             }
+                                          ],
+                                          "nameLower": "dentate nucleus"
+                                       }
+                                    ],
+                                    "nameLower": "cerebellar nuclei"
+                                 },
+                                 {
+                                    "name": "Cerebellar cortex",
+                                    "children": [
+                                       {
+                                          "name": "Cerebellar vermis",
+                                          "children": [
+                                             {
+                                                "name": "Lingula",
+                                                "nameLower": "lingula"
+                                             },
+                                             {
+                                                "name": "Central lobule",
+                                                "children": [
+                                                   {
+                                                      "name": "sublobule a of lobule II",
+                                                      "nameLower": "sublobule a of lobule ii"
+                                                   },
+                                                   {
+                                                      "name": "sublobule bs of lobule II",
+                                                      "nameLower": "sublobule bs of lobule ii"
+                                                   },
+                                                   {
+                                                      "name": "sublobule a of lobule III",
+                                                      "nameLower": "sublobule a of lobule iii"
+                                                   },
+                                                   {
+                                                      "name": "sublobule bs of lobule III",
+                                                      "nameLower": "sublobule bs of lobule iii"
+                                                   }
+                                                ],
+                                                "nameLower": "central lobule"
+                                             },
+                                             {
+                                                "name": "Culmen",
+                                                "children": [
+                                                   {
+                                                      "name": "ventral lobule",
+                                                      "nameLower": "ventral lobule"
+                                                   },
+                                                   {
+                                                      "name": "dorsal lobule",
+                                                      "nameLower": "dorsal lobule"
+                                                   }
+                                                ],
+                                                "nameLower": "culmen"
+                                             },
+                                             {
+                                                "name": "Declive",
+                                                "children": [
+                                                   {
+                                                      "name": "sublobules a-d",
+                                                      "nameLower": "sublobules a-d"
+                                                   }
+                                                ],
+                                                "nameLower": "declive"
+                                             },
+                                             {
+                                                "name": "Folium-tuber vermis",
+                                                "nameLower": "folium-tuber vermis"
+                                             },
+                                             {
+                                                "name": "Pyramis",
+                                                "children": [
+                                                   {
+                                                      "name": "sublobules a,b",
+                                                      "nameLower": "sublobules a,b"
+                                                   }
+                                                ],
+                                                "nameLower": "pyramis"
+                                             },
+                                             {
+                                                "name": "Uvula",
+                                                "children": [
+                                                   {
+                                                      "name": "sublobules ab,c",
+                                                      "nameLower": "sublobules ab,c"
+                                                   }
+                                                ],
+                                                "nameLower": "uvula"
+                                             },
+                                             {
+                                                "name": "Nodule",
+                                                "children": [
+                                                   {
+                                                      "name": "sublobules a,b",
+                                                      "nameLower": "sublobules a,b"
+                                                   }
+                                                ],
+                                                "nameLower": "nodule"
+                                             }
+                                          ],
+                                          "nameLower": "cerebellar vermis"
+                                       },
+                                       {
+                                          "name": "Cerebellar hemisphere",
+                                          "children": [
+                                             {
+                                                "name": "Simple lobule",
+                                                "nameLower": "simple lobule"
+                                             },
+                                             {
+                                                "name": "Ansiform lobule",
+                                                "children": [
+                                                   {
+                                                      "name": "Ansiform lobule crus 1",
+                                                      "children": [
+                                                         {
+                                                            "name": "sublobules a-d",
+                                                            "nameLower": "sublobules a-d"
+                                                         }
+                                                      ],
+                                                      "nameLower": "ansiform lobule crus 1"
+                                                   },
+                                                   {
+                                                      "name": "Ansiform lobule crus 2",
+                                                      "children": [
+                                                         {
+                                                            "name": "sublobules a,b",
+                                                            "nameLower": "sublobules a,b"
+                                                         }
+                                                      ],
+                                                      "nameLower": "ansiform lobule crus 2"
+                                                   }
+                                                ],
+                                                "nameLower": "ansiform lobule"
+                                             },
+                                             {
+                                                "name": "Paramedian lobule",
+                                                "nameLower": "paramedian lobule"
+                                             },
+                                             {
+                                                "name": "Copula pyramidis",
+                                                "children": [
+                                                   {
+                                                      "name": "sublobules a,b",
+                                                      "nameLower": "sublobules a,b"
+                                                   }
+                                                ],
+                                                "nameLower": "copula pyramidis"
+                                             },
+                                             {
+                                                "name": "Paraflocculus",
+                                                "nameLower": "paraflocculus"
+                                             },
+                                             {
+                                                "name": "Flocculus",
+                                                "nameLower": "flocculus"
+                                             }
+                                          ],
+                                          "nameLower": "cerebellar hemisphere"
+                                       }
+                                    ],
+                                    "nameLower": "cerebellar cortex"
+                                 }
+                              ],
+                              "nameLower": "cerebellum"
+                           }
+                        ],
+                        "nameLower": "hindbrain"
+                     },
+                     {
+                        "name": "Afterbrain",
+                        "children": [
+                           {
+                              "name": "Facial nucleus",
+                              "nameLower": "facial nucleus"
+                           },
+                           {
+                              "name": "Accessory facial nucleus",
+                              "nameLower": "accessory facial nucleus"
+                           },
+                           {
+                              "name": "Hypoglossal nucleus",
+                              "nameLower": "hypoglossal nucleus"
+                           },
+                           {
+                              "name": "Superior salivatory nucleus",
+                              "nameLower": "superior salivatory nucleus"
+                           },
+                           {
+                              "name": "Inferior salivatory nucleus",
+                              "nameLower": "inferior salivatory nucleus"
+                           },
+                           {
+                              "name": "Ambiguus nucleus ventral division",
+                              "nameLower": "ambiguus nucleus ventral division"
+                           },
+                           {
+                              "name": "Ambiguus nucleus dorsal division",
+                              "nameLower": "ambiguus nucleus dorsal division"
+                           },
+                           {
+                              "name": "Dorsal motor nucleus of vagus nerve",
+                              "nameLower": "dorsal motor nucleus of vagus nerve"
+                           },
+                           {
+                              "name": "Pallidal raphe nucleus",
+                              "nameLower": "pallidal raphe nucleus"
+                           },
+                           {
+                              "name": "Obscurus raphe nucleus",
+                              "nameLower": "obscurus raphe nucleus"
+                           },
+                           {
+                              "name": "Paragigantocellular reticular nucleus",
+                              "children": [
+                                 {
+                                    "name": "Lateral part",
+                                    "nameLower": "lateral part"
+                                 },
+                                 {
+                                    "name": "Dorsal part",
+                                    "nameLower": "dorsal part"
+                                 }
+                              ],
+                              "nameLower": "paragigantocellular reticular nucleus"
+                           },
+                           {
+                              "name": "Magnocellular reticular nucleus",
+                              "nameLower": "magnocellular reticular nucleus"
+                           },
+                           {
+                              "name": "Gigantocellular reticular nucleus",
+                              "nameLower": "gigantocellular reticular nucleus"
+                           },
+                           {
+                              "name": "Parvicellular reticular nucleus",
+                              "nameLower": "parvicellular reticular nucleus"
+                           },
+                           {
+                              "name": "Parapyramidal nucleus",
+                              "children": [
+                                 {
+                                    "name": "deep part",
+                                    "nameLower": "deep part"
+                                 },
+                                 {
+                                    "name": "superficial part",
+                                    "nameLower": "superficial part"
+                                 }
+                              ],
+                              "nameLower": "parapyramidal nucleus"
+                           },
+                           {
+                              "name": "Medullary reticular nucleus",
+                              "children": [
+                                 {
+                                    "name": "Ventral part",
+                                    "nameLower": "ventral part"
+                                 },
+                                 {
+                                    "name": "Dorsal part",
+                                    "nameLower": "dorsal part"
+                                 }
+                              ],
+                              "nameLower": "medullary reticular nucleus"
+                           },
+                           {
+                              "name": "Inferior olivary complex",
+                              "children": [
+                                 {
+                                    "name": "Medial accessory olive",
+                                    "nameLower": "medial accessory olive"
+                                 },
+                                 {
+                                    "name": "Principal olive",
+                                    "nameLower": "principal olive"
+                                 },
+                                 {
+                                    "name": "Dorsal accessory olive",
+                                    "nameLower": "dorsal accessory olive"
+                                 }
+                              ],
+                              "nameLower": "inferior olivary complex"
+                           },
+                           {
+                              "name": "Lateral reticular nucleus",
+                              "children": [
+                                 {
+                                    "name": "Magnocellular part",
+                                    "nameLower": "magnocellular part"
+                                 },
+                                 {
+                                    "name": "Parvicellular part",
+                                    "nameLower": "parvicellular part"
+                                 }
+                              ],
+                              "nameLower": "lateral reticular nucleus"
+                           },
+                           {
+                              "name": "Linear medullary nucleus",
+                              "nameLower": "linear medullary nucleus"
+                           },
+                           {
+                              "name": "Paramedian reticular nucleus",
+                              "nameLower": "paramedian reticular nucleus"
+                           },
+                           {
+                              "name": "Parasolitary nucleus",
+                              "nameLower": "parasolitary nucleus"
+                           },
+                           {
+                              "name": "Cochlear nuclei",
+                              "children": [
+                                 {
+                                    "name": "Ventral cochlear nucleus",
+                                    "children": [
+                                       {
+                                          "name": "Anterior part",
+                                          "nameLower": "anterior part"
+                                       },
+                                       {
+                                          "name": "Posterior part",
+                                          "nameLower": "posterior part"
+                                       }
+                                    ],
+                                    "nameLower": "ventral cochlear nucleus"
+                                 },
+                                 {
+                                    "name": "Dorsal cochlear nucleus",
+                                    "nameLower": "dorsal cochlear nucleus"
+                                 },
+                                 {
+                                    "name": "Subpeduncular granular region",
+                                    "nameLower": "subpeduncular granular region"
+                                 },
+                                 {
+                                    "name": "Granular lamina",
+                                    "nameLower": "granular lamina"
+                                 },
+                                 {
+                                    "name": "Interstitial nucleus of auditory nerve",
+                                    "nameLower": "interstitial nucleus of auditory nerve"
+                                 }
+                              ],
+                              "nameLower": "cochlear nuclei"
+                           },
+                           {
+                              "name": "Medial vestibular nucleus",
+                              "nameLower": "medial vestibular nucleus"
+                           },
+                           {
+                              "name": "Spinal vestibular nucleus",
+                              "nameLower": "spinal vestibular nucleus"
+                           },
+                           {
+                              "name": "Perihypoglossal nuclei",
+                              "children": [
+                                 {
+                                    "name": "Nucleus intercalatus",
+                                    "nameLower": "nucleus intercalatus"
+                                 },
+                                 {
+                                    "name": "Nucleus prepositus",
+                                    "nameLower": "nucleus prepositus"
+                                 },
+                                 {
+                                    "name": "Nucleus of Roller",
+                                    "nameLower": "nucleus of roller"
+                                 }
+                              ],
+                              "nameLower": "perihypoglossal nuclei"
+                           },
+                           {
+                              "name": "Interstitial nucleus of vestibular nerve",
+                              "nameLower": "interstitial nucleus of vestibular nerve"
+                           },
+                           {
+                              "name": "Nucleus x",
+                              "nameLower": "nucleus x"
+                           },
+                           {
+                              "name": "Nucleus of solitary tract",
+                              "children": [
+                                 {
+                                    "name": "Medial part",
+                                    "children": [
+                                       {
+                                          "name": "Rostral zone",
+                                          "nameLower": "rostral zone"
+                                       },
+                                       {
+                                          "name": "Caudal zone general",
+                                          "children": [
+                                             {
+                                                "name": "caudal subzone",
+                                                "nameLower": "caudal subzone"
+                                             },
+                                             {
+                                                "name": "central subzone",
+                                                "nameLower": "central subzone"
+                                             },
+                                             {
+                                                "name": "gelatinous subzone",
+                                                "nameLower": "gelatinous subzone"
+                                             }
+                                          ],
+                                          "nameLower": "caudal zone general"
+                                       }
+                                    ],
+                                    "nameLower": "medial part"
+                                 },
+                                 {
+                                    "name": "Lateral part",
+                                    "nameLower": "lateral part"
+                                 },
+                                 {
+                                    "name": "Commissural part",
+                                    "nameLower": "commissural part"
+                                 }
+                              ],
+                              "nameLower": "nucleus of solitary tract"
+                           },
+                           {
+                              "name": "Area postrema",
+                              "nameLower": "area postrema"
+                           },
+                           {
+                              "name": "Dorsal column nuclei",
+                              "children": [
+                                 {
+                                    "name": "Gracile nucleus",
+                                    "children": [
+                                       {
+                                          "name": "principal part",
+                                          "nameLower": "principal part"
+                                       },
+                                       {
+                                          "name": "median part",
+                                          "nameLower": "median part"
+                                       }
+                                    ],
+                                    "nameLower": "gracile nucleus"
+                                 },
+                                 {
+                                    "name": "Nucleus z",
+                                    "nameLower": "nucleus z"
+                                 },
+                                 {
+                                    "name": "Cuneate nucleus",
+                                    "nameLower": "cuneate nucleus"
+                                 },
+                                 {
+                                    "name": "Accessory cuneate nucleus",
+                                    "nameLower": "accessory cuneate nucleus"
+                                 }
+                              ],
+                              "nameLower": "dorsal column nuclei"
+                           },
+                           {
+                              "name": "Paratrigeminal nucleus",
+                              "nameLower": "paratrigeminal nucleus"
+                           },
+                           {
+                              "name": "Spinal nucleus of trigeminal nerve",
+                              "children": [
+                                 {
+                                    "name": "Oral part",
+                                    "children": [
+                                       {
+                                          "name": "ventrolateral part",
+                                          "nameLower": "ventrolateral part"
+                                       },
+                                       {
+                                          "name": "rostral dorsomedial part",
+                                          "nameLower": "rostral dorsomedial part"
+                                       },
+                                       {
+                                          "name": "middle dorsomedial part",
+                                          "children": [
+                                             {
+                                                "name": "ventral zone",
+                                                "nameLower": "ventral zone"
+                                             },
+                                             {
+                                                "name": "dorsal zone",
+                                                "nameLower": "dorsal zone"
+                                             }
+                                          ],
+                                          "nameLower": "middle dorsomedial part"
+                                       },
+                                       {
+                                          "name": "caudal dorsomedial part",
+                                          "nameLower": "caudal dorsomedial part"
+                                       }
+                                    ],
+                                    "nameLower": "oral part"
+                                 },
+                                 {
+                                    "name": "Interpolar part",
+                                    "nameLower": "interpolar part"
+                                 },
+                                 {
+                                    "name": "Caudal part",
+                                    "nameLower": "caudal part"
+                                 }
+                              ],
+                              "nameLower": "spinal nucleus of trigeminal nerve"
+                           }
+                        ],
+                        "nameLower": "afterbrain"
+                     }
+                  ],
+                  "nameLower": "rhombic brain"
+               },
+               {
+                  "name": "Spinal cord",
+                  "children": [
+                     {
+                        "name": "Ventral horn",
+                        "children": [
+                           {
+                              "name": "Nucleus of spinal accessory nerve",
+                              "nameLower": "nucleus of spinal accessory nerve"
+                           },
+                           {
+                              "name": "Ventral horn proper",
+                              "nameLower": "ventral horn proper"
+                           },
+                           {
+                              "name": "Nucleus of bulbocavernosus",
+                              "nameLower": "nucleus of bulbocavernosus"
+                           },
+                           {
+                              "name": "Onuf’s nucleus",
+                              "nameLower": "onuf’s nucleus"
+                           },
+                           {
+                              "name": "Phrenic nucleus",
+                              "nameLower": "phrenic nucleus"
+                           }
+                        ],
+                        "nameLower": "ventral horn"
+                     },
+                     {
+                        "name": "Intermediate spinal zone",
+                        "children": [
+                           {
+                              "name": "Spinal central gray",
+                              "nameLower": "spinal central gray"
+                           },
+                           {
+                              "name": "Intermediomedial nucleus",
+                              "nameLower": "intermediomedial nucleus"
+                           },
+                           {
+                              "name": "Dorsal commissural nucleus",
+                              "nameLower": "dorsal commissural nucleus"
+                           },
+                           {
+                              "name": "Intermediate spinal zone proper",
+                              "nameLower": "intermediate spinal zone proper"
+                           },
+                           {
+                              "name": "Intercalated spinal nucleus",
+                              "nameLower": "intercalated spinal nucleus"
+                           },
+                           {
+                              "name": "Central cervical nucleus",
+                              "nameLower": "central cervical nucleus"
+                           },
+                           {
+                              "name": "Dorsal thoracic nucleus",
+                              "children": [
+                                 {
+                                    "name": "Rostral part",
+                                    "nameLower": "rostral part"
+                                 },
+                                 {
+                                    "name": "Caudal part",
+                                    "nameLower": "caudal part"
+                                 }
+                              ],
+                              "nameLower": "dorsal thoracic nucleus"
+                           },
+                           {
+                              "name": "Intermediolateral nucleus",
+                              "nameLower": "intermediolateral nucleus"
+                           },
+                           {
+                              "name": "Thoracolumbar part",
+                              "nameLower": "thoracolumbar part"
+                           },
+                           {
+                              "name": "Sacral part",
+                              "nameLower": "sacral part"
+                           }
+                        ],
+                        "nameLower": "intermediate spinal zone"
+                     },
+                     {
+                        "name": "Dorsal horn",
+                        "children": [
+                           {
+                              "name": "Basal nucleus of dorsal horn general",
+                              "children": [
+                                 {
+                                    "name": "Basal nucleus of dorsal horn",
+                                    "nameLower": "basal nucleus of dorsal horn"
+                                 },
+                                 {
+                                    "name": "Lateral cervical nucleus",
+                                    "nameLower": "lateral cervical nucleus"
+                                 },
+                                 {
+                                    "name": "Lateral spinal nucleus",
+                                    "nameLower": "lateral spinal nucleus"
+                                 }
+                              ],
+                              "nameLower": "basal nucleus of dorsal horn general"
+                           },
+                           {
+                              "name": "Nucleus proprius of spinal cord",
+                              "nameLower": "nucleus proprius of spinal cord"
+                           },
+                           {
+                              "name": "Spinal reticular nucleus",
+                              "nameLower": "spinal reticular nucleus"
+                           },
+                           {
+                              "name": "Gelatinous substance of spinal cord",
+                              "nameLower": "gelatinous substance of spinal cord"
+                           },
+                           {
+                              "name": "Marginal zone of spinal cord",
+                              "nameLower": "marginal zone of spinal cord"
+                           }
+                        ],
+                        "nameLower": "dorsal horn"
+                     }
+                  ],
+                  "nameLower": "spinal cord"
+               }
+            ],
+            "nameLower": ""
+         }
+      ],
+      "nameLower": "central nervous system [rat]"
+   }
+]

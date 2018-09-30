@@ -1,0 +1,44 @@
+html, body
+{
+  font-family: Helvetica,sans-serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin: 0;
+  padding: 20px;
+  height: 100%;
+  width: 100%;
+  font-weight: normal;
+  font-size: 14px;
+  outline: none;
+}
+
+select {
+    -webkit-appearance: button;
+    -webkit-border-radius: 2px;
+    -webkit-padding-end: 20px;
+    -webkit-padding-start: 2px;
+    -webkit-user-select: none;
+
+    background: rgba(0, 0, 0, 0);
+    background-repeat: no-repeat;
+    border: solid 1px #000;
+    font-size: inherit;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+    outline: none;
+}
+
+
+.hide {
+    display: none!important;
+}
+
+.show {
+    display: block!important;
+}

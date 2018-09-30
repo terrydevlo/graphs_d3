@@ -1,0 +1,397 @@
+{
+   "name": "layers",
+   "children": [
+      {
+         "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph",
+         "children": [
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph - Cytosol layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph - CT layer"
+            }
+         ]
+      },
+      {
+         "name": "Diencephalon",
+         "children": [
+            {
+               "name": "Diencephalon - CSF layer"
+            },
+            {
+               "name": "Diencephalon - Ependymal layer"
+            },
+            {
+               "name": "Diencephalon - Parenchyma layer"
+            }
+         ]
+      },
+      {
+         "name": "Medulla",
+         "children": [
+            {
+               "name": "Medulla - CSF layer"
+            },
+            {
+               "name": "Medulla - Ependymal layer"
+            },
+            {
+               "name": "Medulla - Parenchyma layer"
+            }
+         ]
+      },
+      {
+         "name": "Spinal Cord",
+         "children": [
+            {
+               "name": "Spinal Cord - CSF layer"
+            },
+            {
+               "name": "Spinal Cord - Ependymal layer"
+            },
+            {
+               "name": "Spinal Cord - Parenchyma layer"
+            }
+         ]
+      },
+      {
+         "name": "Skin",
+         "children": [
+            {
+               "name": "Skin - Air layer"
+            },
+            {
+               "name": "Skin - Epidermal layer"
+            },
+            {
+               "name": "Skin - Dermal layer"
+            }
+         ]
+      },
+      {
+         "name": "Pons",
+         "children": [
+            {
+               "name": "Pons - CSF layer"
+            },
+            {
+               "name": "Pons - Ependymal layer"
+            },
+            {
+               "name": "Pons - Parenchyma layer"
+            }
+         ]
+      },
+      {
+         "name": "Midbrain",
+         "children": [
+            {
+               "name": "Midbrain - CSF layer"
+            },
+            {
+               "name": "Midbrain - Ependymal layer"
+            },
+            {
+               "name": "Midbrain - Parenchyma layer"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,236 @@
+[
+   {
+      "name": "PERIPHERAL GANGLIA [RAT]",
+      "children": [
+         {
+            "name": "Craniospinal ganglia",
+            "children": [
+               {
+                  "name": "Cranial nerve ganglia",
+                  "children": [
+                     {
+                        "name": "Terminal ganglion",
+                        "children": [
+                           {
+                              "name": "Grüneberg ganglion",
+                              "nameLower": "grüneberg ganglion"
+                           },
+                           {
+                              "name": "Vomeronasal epithelium",
+                              "nameLower": "vomeronasal epithelium"
+                           },
+                           {
+                              "name": "Olfactory epithelium",
+                              "nameLower": "olfactory epithelium"
+                           },
+                           {
+                              "name": "Trigeminal ganglion",
+                              "nameLower": "trigeminal ganglion"
+                           },
+                           {
+                              "name": "Geniculate ganglion",
+                              "nameLower": "geniculate ganglion"
+                           },
+                           {
+                              "name": "Cochlear ganglion",
+                              "nameLower": "cochlear ganglion"
+                           },
+                           {
+                              "name": "Vestibular ganglion",
+                              "nameLower": "vestibular ganglion"
+                           },
+                           {
+                              "name": "Proximal glossopharyngeal ganglion",
+                              "nameLower": "proximal glossopharyngeal ganglion"
+                           },
+                           {
+                              "name": "Distal glossopharyngeal ganglion",
+                              "nameLower": "distal glossopharyngeal ganglion"
+                           },
+                           {
+                              "name": "Proximal vagal ganglion",
+                              "nameLower": "proximal vagal ganglion"
+                           },
+                           {
+                              "name": "Distal vagal ganglion",
+                              "nameLower": "distal vagal ganglion"
+                           }
+                        ],
+                        "nameLower": "terminal ganglion"
+                     },
+                     {
+                        "name": "Spinal nerve ganglia",
+                        "children": [
+                           {
+                              "name": "Cervical spinal ganglia",
+                              "nameLower": "cervical spinal ganglia"
+                           },
+                           {
+                              "name": "Thoracic spinal ganglia",
+                              "nameLower": "thoracic spinal ganglia"
+                           },
+                           {
+                              "name": "Lumbar spinal ganglia",
+                              "nameLower": "lumbar spinal ganglia"
+                           },
+                           {
+                              "name": "Sacral spinal ganglia",
+                              "nameLower": "sacral spinal ganglia"
+                           },
+                           {
+                              "name": "Coccygeal spinal ganglia",
+                              "nameLower": "coccygeal spinal ganglia"
+                           }
+                        ],
+                        "nameLower": "spinal nerve ganglia"
+                     }
+                  ],
+                  "nameLower": "cranial nerve ganglia"
+               },
+               {
+                  "name": "Autonomic ganglia",
+                  "children": [
+                     {
+                        "name": "Paravertebral ganglia",
+                        "children": [
+                           {
+                              "name": "Carotid ganglion",
+                              "nameLower": "carotid ganglion"
+                           },
+                           {
+                              "name": "Sympathetic trunk ganglia",
+                              "children": [
+                                 {
+                                    "name": "Cervical sympathetic ganglia",
+                                    "children": [
+                                       {
+                                          "name": "Superior cervical ganglion",
+                                          "nameLower": "superior cervical ganglion"
+                                       },
+                                       {
+                                          "name": "Middle cervical ganglion",
+                                          "nameLower": "middle cervical ganglion"
+                                       },
+                                       {
+                                          "name": "Vertebral ganglion",
+                                          "nameLower": "vertebral ganglion"
+                                       },
+                                       {
+                                          "name": "Inferior cervical ganglion",
+                                          "nameLower": "inferior cervical ganglion"
+                                       }
+                                    ],
+                                    "nameLower": "cervical sympathetic ganglia"
+                                 },
+                                 {
+                                    "name": "Thoracic sympathetic ganglia",
+                                    "children": [
+                                       {
+                                          "name": "Superior thoracic ganglion",
+                                          "nameLower": "superior thoracic ganglion"
+                                       }
+                                    ],
+                                    "nameLower": "thoracic sympathetic ganglia"
+                                 },
+                                 {
+                                    "name": "Lumbar sympathetic ganglia",
+                                    "nameLower": "lumbar sympathetic ganglia"
+                                 },
+                                 {
+                                    "name": "Sacral sympathetic ganglia",
+                                    "nameLower": "sacral sympathetic ganglia"
+                                 },
+                                 {
+                                    "name": "Coccygeal sympathetic ganglion",
+                                    "children": [
+                                       {
+                                          "name": "Ganglion impar",
+                                          "nameLower": "ganglion impar"
+                                       }
+                                    ],
+                                    "nameLower": "coccygeal sympathetic ganglion"
+                                 }
+                              ],
+                              "nameLower": "sympathetic trunk ganglia"
+                           }
+                        ],
+                        "nameLower": "paravertebral ganglia"
+                     },
+                     {
+                        "name": "Prevertebral ganglia",
+                        "children": [
+                           {
+                              "name": "Celiac ganglion",
+                              "nameLower": "celiac ganglion"
+                           },
+                           {
+                              "name": "Splanchnic ganglion",
+                              "nameLower": "splanchnic ganglion"
+                           },
+                           {
+                              "name": "Aorticorenal ganglion",
+                              "nameLower": "aorticorenal ganglion"
+                           },
+                           {
+                              "name": "Superior mesenteric ganglion",
+                              "nameLower": "superior mesenteric ganglion"
+                           },
+                           {
+                              "name": "Spermatic ganglia",
+                              "nameLower": "spermatic ganglia"
+                           },
+                           {
+                              "name": "Inferior mesenteric ganglion",
+                              "nameLower": "inferior mesenteric ganglion"
+                           }
+                        ],
+                        "nameLower": "prevertebral ganglia"
+                     },
+                     {
+                        "name": "Terminal ganglia",
+                        "children": [
+                           {
+                              "name": "Ciliary ganglion",
+                              "nameLower": "ciliary ganglion"
+                           },
+                           {
+                              "name": "Pterygopalatine ganglion",
+                              "nameLower": "pterygopalatine ganglion"
+                           },
+                           {
+                              "name": "Submandibular ganglion",
+                              "nameLower": "submandibular ganglion"
+                           },
+                           {
+                              "name": "Otic ganglion",
+                              "nameLower": "otic ganglion"
+                           },
+                           {
+                              "name": "Cardiac ganglion",
+                              "nameLower": "cardiac ganglion"
+                           },
+                           {
+                              "name": "Renal ganglia",
+                              "nameLower": "renal ganglia"
+                           },
+                           {
+                              "name": "Pelvic ganglia",
+                              "nameLower": "pelvic ganglia"
+                           },
+                           {
+                              "name": "Paracervical ganglia",
+                              "nameLower": "paracervical ganglia"
+                           }
+                        ],
+                        "nameLower": "terminal ganglia"
+                     }
+                  ],
+                  "nameLower": "autonomic ganglia"
+               }
+            ],
+            "nameLower": "craniospinal ganglia"
+         }
+      ],
+      "nameLower": "peripheral ganglia [rat]"
+   }
+]

@@ -1,0 +1,41 @@
+/* .node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 1.6em sans-serif;
+}
+
+
+
+
+.node text.info {
+  font: 14px sans-serif;
+  fill: black;
+} */
+
+.link {
+  fill: none;
+  stroke-width: 4px;
+}
+
+form {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+label {
+  display: block;
+}
+div.tooltip {
+  position: absolute;
+  background-color: white;
+  max-width; 200px;
+  height: auto;
+  padding: 5px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+  pointer-events: none;
+}

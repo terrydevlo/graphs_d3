@@ -1,0 +1,8 @@
+runtime: nodejs8
+env: standard
+manual_scaling:
+  instances: 1
+resources:
+  cpu: 0.5
+  memory_gb: 0.18
+  disk_size_gb: 10

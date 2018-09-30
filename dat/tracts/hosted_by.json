@@ -1,0 +1,135 @@
+{
+   "name": "hosted_by",
+   "children": [
+      {
+         "name": "Medulla - Parenchyma layer",
+         "children": [
+            {
+               "name": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Gracile Nucleus of Medulla"
+            }
+         ]
+      },
+      {
+         "name": "Spinal Cord - Parenchyma layer",
+         "children": [
+            {
+               "name": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Dorsal Horn of Spinal Cord"
+            }
+         ]
+      },
+      {
+         "name": "Diencephalon - Parenchyma layer",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Ventral Posterolateral Nucleus of Diencephalon"
+            }
+         ]
+      },
+      {
+         "name": "Lower Limb",
+         "children": [
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Dorsal Root Ganglion",
+         "children": [
+            {
+               "name": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Gracile Nucleus of Medulla",
+         "children": [
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Skin - Dermal layer",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Dorsal Horn of Spinal Cord",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Pons - Parenchyma layer",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Midbrain - Parenchyma layer",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Ventral Posterolateral Nucleus of Diencephalon",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph"
+            }
+         ]
+      }
+   ]
+}

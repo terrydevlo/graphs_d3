@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
+
+  <title>Graph</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" type="text/css" href="css/general.css">
+  <link rel="stylesheet" type="text/css" href="css/container.css">
+  <link rel="stylesheet" type="text/css" href="css/graph.css">
+  <link rel="stylesheet" type="text/css" href="css/dom_ctrls.css">
+
+  <script src="ext/d3.v5.min.js"></script>
+  <script src="ext/lodash_full_min.js"></script>
+  <script src="ext/jsonpath.js"></script>
+
+</head>
+
+<body>
+  <div id="divCtrls">
+    <div id="ctrlsData">
+      <div class="lblAndCtrl"><label class="ctrlLabel">Data</label><select id="elSelDat"></select></div>
+
+      <div class="lblAndCtrl"><label class="ctrlLabel">Nodes</label><select id="elSelNodes"></select></div>
+      <div class="lblAndCtrl"></div>
+      <div class="lblAndCtrl">
+        <label class="ctrlLabel" style="clear:both;  padding-top:5px; padding-bottom:3px;">Edges</label>
+          <div id="elDivRadios"></div>
+          <div id="elDivChkboxes"></div>
+      </div>
+      <div class="lblAndCtrl"></div>
+      <div class="lblAndCtrl"><label class="ctrlLabel">Layout</label><select id="elSelLayout"></select></div>
+      <div class="lblAndCtrl"><label class="ctrlLabel">Labels</label><input type="checkbox" id="elInputShowLabels" class="bigCheckbox"></div>
+    </div>
+</div>
+  <div id="svgContainer"><svg></svg></div>
+
+  <script type="module">
+
+    import GraphUI from "./int/gui/graph_ui.js";
+    import CtrlsUI from "./int/gui/ctrls_ui.js";
+
+    import { butter_filenames, strip_extension, strip_extensions } from "./int/string_utils.js";
+
+    // Dat selector
+    // Out files
+    let datFilePrefix = "./dat/";
+
+    let datFileExt = ".json";
+
+    let hierLayouts = ['horizontal', 'radial'];
+    let flatLayouts = ['force_directed', 'coord_layout']
+    let allLayouts = _.concat( hierLayouts, flatLayouts );
+
+    let initOption = "coord_layout";
+    let showLabels = false;
+
+    let allData = <%- outDatasetsStr %>;
+
+    // Selected File
+    let els = {};
+    els.selDat = "#elSelDat";
+    els.selNodes = "#elSelNodes";
+    els.selEdges = "#elSelEdges";
+    els.selLayout = "#elSelLayout";
+    els.selLabels = "#elInputShowLabels";
+
+    window.dispatch = d3.dispatch("dataChange", "nodeChange", "layoutChange",
+      "edgesChange", "labelsChange", "buildEdges", "buildNodes", "layoutFromGraph");
+
+    // set data to default
+    let ctrlsUI = new CtrlsUI();
+    ctrlsUI.build_gui( allData, allLayouts, els);
+
+    let graphUI = new GraphUI( allData, ctrlsUI.colorMap );
+
+    window.dispatch.on("dataChange", (sel) => {
+      ctrlsUI.set_data_state( sel );
+      console.log("ctrlsUI.selState: ", ctrlsUI.selState);
+      graphUI.build_graph(ctrlsUI.selState, ctrlsUI.cmap);
+    });
+
+    window.dispatch.on("nodeChange", (sel) => {
+      ctrlsUI.set_node_state( sel );
+      graphUI.build_graph(ctrlsUI.selState, ctrlsUI.cmap);
+      graphUI.get_relevant_edges();
+      window.dispatch.call( "buildEdges", this, ctrlsUI.selState.edges );
+    });
+
+    window.dispatch.on("layoutChange", (sel) => {
+      ctrlsUI.set_layout_state( sel );
+      graphUI.build_graph( ctrlsUI.selState, ctrlsUI.cmap );
+    });
+
+    window.dispatch.on("layoutFromGraph", (sel) => {
+      ctrlsUI.set_layout_state( sel );
+      // graphUI.build_graph( ctrlsUI.selState );
+    });
+
+    window.dispatch.on("labelsChange", (showLabels) => {
+      ctrlsUI.selState.showLabels = showLabels;
+      graphUI.showLabels = showLabels;
+      console.log("showLabels: ", showLabels);
+      graphUI.draw_visuals();
+    });
+
+    window.dispatch.on("buildEdges", (relEdges) => {
+      let buildEdgesP = {};
+      buildEdgesP['elId'] = "#elDivRadios";
+      buildEdgesP['evScope'] = "edgesChange";
+      buildEdgesP['cMap'] = ctrlsUI.colorMap;
+
+      ctrlsUI.build_checkboxes(graphUI.relevantEdges, graphUI.edgesSelected, buildEdgesP);
+    });
+
+    window.dispatch.on("edgesChange", (edgesChanged, newEdgesVal) => {
+      // stateDat.checkedEdges = ctrlsUI.edgesMap;
+      graphUI.update_links(edgesChanged, newEdgesVal);
+    });
+
+    ctrlsUI.set_layout_state( initOption );
+    ctrlsUI.selState.showLabels = showLabels;
+
+    window.dispatch.call("dataChange", this);
+    window.addEventListener("resize",  () => graphUI.resize_svg());
+
+  </script>
+
+
+</body>
+
+</html>

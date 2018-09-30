@@ -1,0 +1,602 @@
+[
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph - Cytosol layer",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph - Plasma Membrane layer",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph - CT layer",
+      "target": "CT"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph",
+      "target": "Cytosol"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph",
+      "target": "Plasma Membrane"
+   },
+   {
+      "source": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph",
+      "target": "CT"
+   },
+   {
+      "source": "Diencephalon",
+      "target": "CSF"
+   },
+   {
+      "source": "Diencephalon",
+      "target": "Ependymal"
+   },
+   {
+      "source": "Diencephalon",
+      "target": "Parenchyma"
+   },
+   {
+      "source": "Medulla",
+      "target": "CSF"
+   },
+   {
+      "source": "Medulla",
+      "target": "Ependymal"
+   },
+   {
+      "source": "Medulla",
+      "target": "Parenchyma"
+   },
+   {
+      "source": "Spinal Cord",
+      "target": "CSF"
+   },
+   {
+      "source": "Spinal Cord",
+      "target": "Ependymal"
+   },
+   {
+      "source": "Spinal Cord",
+      "target": "Parenchyma"
+   },
+   {
+      "source": "Skin",
+      "target": "Air"
+   },
+   {
+      "source": "Skin",
+      "target": "Epidermal"
+   },
+   {
+      "source": "Skin",
+      "target": "Dermal"
+   },
+   {
+      "source": "Pons",
+      "target": "CSF"
+   },
+   {
+      "source": "Pons",
+      "target": "Ependymal"
+   },
+   {
+      "source": "Pons",
+      "target": "Parenchyma"
+   },
+   {
+      "source": "Midbrain",
+      "target": "CSF"
+   },
+   {
+      "source": "Midbrain",
+      "target": "Ependymal"
+   },
+   {
+      "source": "Midbrain",
+      "target": "Parenchyma"
+   }
+]

@@ -1,0 +1,129 @@
+{
+   "name": "contained_by",
+   "children": [
+      {
+         "name": "Gracile tract",
+         "children": [
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph"
+            },
+            {
+               "name": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph"
+            },
+            {
+               "name": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Anterolateral Spinothalamic tract",
+         "children": [
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph"
+            },
+            {
+               "name": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph"
+            }
+         ]
+      },
+      {
+         "name": "Central Nervous System",
+         "children": [
+            {
+               "name": "Diencephalon"
+            },
+            {
+               "name": "Medulla"
+            },
+            {
+               "name": "Spinal Cord"
+            },
+            {
+               "name": "Pons"
+            },
+            {
+               "name": "Midbrain"
+            }
+         ]
+      },
+      {
+         "name": "Body",
+         "children": [
+            {
+               "name": "Skin"
+            },
+            {
+               "name": "Skin - Air layer"
+            },
+            {
+               "name": "Skin - Epidermal layer"
+            },
+            {
+               "name": "Skin - Dermal layer"
+            },
+            {
+               "name": "Lower Limb"
+            }
+         ]
+      },
+      {
+         "name": "Peripheral Nervous System",
+         "children": [
+            {
+               "name": "Dorsal Root Ganglion"
+            }
+         ]
+      }
+   ]
+}

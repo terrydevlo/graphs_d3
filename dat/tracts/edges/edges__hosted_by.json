@@ -1,0 +1,102 @@
+[
+   {
+      "source": "Medulla - Parenchyma layer",
+      "target": "Gracile tract of Medulla - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Medulla - Parenchyma layer",
+      "target": "Anterolateral Spinothalamic tract of Medulla - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Medulla - Parenchyma layer",
+      "target": "Gracile Nucleus of Medulla"
+   },
+   {
+      "source": "Spinal Cord - Parenchyma layer",
+      "target": "Gracile tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - CNS entrance Tubing Neural Lyph"
+   },
+   {
+      "source": "Spinal Cord - Parenchyma layer",
+      "target": "Anterolateral Spinothalamic tract of Spinal Cord - Parenchyma layer - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Spinal Cord - Parenchyma layer",
+      "target": "Dorsal Horn of Spinal Cord"
+   },
+   {
+      "source": "Diencephalon - Parenchyma layer",
+      "target": "Anterolateral Spinothalamic tract of Diencephalon - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Diencephalon - Parenchyma layer",
+      "target": "Ventral Posterolateral Nucleus of Diencephalon"
+   },
+   {
+      "source": "Lower Limb",
+      "target": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Terminal Lyph"
+   },
+   {
+      "source": "Lower Limb",
+      "target": "Gracile tract of Lower Limb - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Dorsal Root Ganglion",
+      "target": "Gracile tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph"
+   },
+   {
+      "source": "Dorsal Root Ganglion",
+      "target": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Soma Lyph"
+   },
+   {
+      "source": "Dorsal Root Ganglion",
+      "target": "Anterolateral Spinothalamic tract of Dorsal Root Ganglion - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Gracile Nucleus of Medulla",
+      "target": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Gracile Nucleus of Medulla",
+      "target": "Gracile tract of Gracile Nucleus of Medulla - 1st order sensory neuron - Neural Terminal Lyph"
+   },
+   {
+      "source": "Skin - Dermal layer",
+      "target": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Terminal Lyph"
+   },
+   {
+      "source": "Skin - Dermal layer",
+      "target": "Anterolateral Spinothalamic tract of Skin - Dermal layer - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Dorsal Horn of Spinal Cord",
+      "target": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Dorsal Horn of Spinal Cord",
+      "target": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 1st order sensory neuron - Neural Terminal Lyph"
+   },
+   {
+      "source": "Dorsal Horn of Spinal Cord",
+      "target": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Neural Terminal Lyph"
+   },
+   {
+      "source": "Dorsal Horn of Spinal Cord",
+      "target": "Anterolateral Spinothalamic tract of Dorsal Horn of Spinal Cord - 2nd order sensory neuron - Soma Lyph"
+   },
+   {
+      "source": "Pons - Parenchyma layer",
+      "target": "Anterolateral Spinothalamic tract of Pons - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Midbrain - Parenchyma layer",
+      "target": "Anterolateral Spinothalamic tract of Midbrain - Parenchyma layer - 2nd order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Ventral Posterolateral Nucleus of Diencephalon",
+      "target": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Tubing Lyph"
+   },
+   {
+      "source": "Ventral Posterolateral Nucleus of Diencephalon",
+      "target": "Anterolateral Spinothalamic tract of Ventral Posterolateral Nucleus of Diencephalon - 2nd order sensory neuron - Neural Terminal Lyph"
+   }
+]

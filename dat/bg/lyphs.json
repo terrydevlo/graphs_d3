@@ -1,0 +1,50 @@
+[
+   {
+      "id": "μ1",
+      "label": "BC",
+      "type": "potential",
+      "topology": "cyst",
+      "name": "μ1 neuron",
+      "localising_parent" : "svg_region_1"
+   },
+   {
+      "id": "v1",
+      "label": "R1_L1",
+      "type": "flow",
+      "topology": "tube",
+      "name": "v1 neuron",
+      "localising_parent" : "svg_region_2"
+   },
+   {
+      "id": "μ2",
+      "label": "C2",
+      "type": "potential",
+      "topology": "cyst",
+      "name": "μ2 neuron",
+      "localising_parent" : "svg_region_5"
+   },
+   {
+      "id": "v2",
+      "label": "R2_l2",
+      "type": "flow",
+      "topology": "tube",
+      "name": "v2 neuron",
+      "localising_parent" : "svg_region_4"
+
+   },
+   {
+      "id": "μ3",
+      "label": "C3",
+      "type": "potential",
+      "topology": "cyst",
+      "name": "μ3 neuron",
+      "localising_parent" : "svg_region_3"
+   },
+   {
+      "id": "v3",
+      "label": "1",
+      "type": "flow",
+      "topology": "tube",
+      "name": "v3 neuron"
+   }
+]
