@@ -1177,7 +1177,7 @@ export default class GraphUI {
       })
       .style("fill", "#000")
       .style("stroke", "#000")
-      .style("dy", "0.15em")
+      .style("dy", "0.25em")
       .text((d) => {
         return d.id;
       })
@@ -1448,7 +1448,7 @@ export default class GraphUI {
         })
         .style("fill", "#000")
         .style("stroke", "#000")
-        .style("dy", "0.15em")
+        .style("dy", "0.25em")
         .text((d) => {
           return d.id;
         })

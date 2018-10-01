@@ -4,9 +4,7 @@
   stroke-width: 3px;
 }
 
-.node text {
-  font: 1.6em sans-serif;
-}
+
 
 
 
@@ -15,6 +13,9 @@
   font: 14px sans-serif;
   fill: black;
 } */
+.node text {
+  font: 1.6em sans-serif;
+}
 
 .link {
   fill: none;
@@ -28,6 +29,7 @@ form {
 label {
   display: block;
 }
+
 div.tooltip {
   position: absolute;
   background-color: white;

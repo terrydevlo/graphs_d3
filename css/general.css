@@ -17,21 +17,21 @@ html, body
 }
 
 select {
-    -webkit-appearance: button;
-    -webkit-border-radius: 2px;
-    -webkit-padding-end: 20px;
-    -webkit-padding-start: 2px;
-    -webkit-user-select: none;
+  -webkit-appearance: button;
+  -webkit-border-radius: 2px;
+  -webkit-padding-end: 20px;
+  -webkit-padding-start: 2px;
+  -webkit-user-select: none;
 
-    background: rgba(0, 0, 0, 0);
-    background-repeat: no-repeat;
-    border: solid 1px #000;
-    font-size: inherit;
+  background: rgba(0, 0, 0, 0);
+  background-repeat: no-repeat;
+  border: solid 1px #000;
+  font-size: inherit;
 
-    overflow: hidden;
-    text-overflow: ellipsis;
-    font-size: 12px;
-    outline: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 12px;
+  outline: none;
 }
 
 

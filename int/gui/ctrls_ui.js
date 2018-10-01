@@ -220,7 +220,7 @@ export default class CtrlsUI {
       .on("change", (d) => {
         console.log(d);
         let thisID = "#chk" + d.replace(" ","_").replace(" ","_").replace(" ","_").replace(" ","_");
-
+        console.log(thisID);
         let thisEl = d3.select(thisID);
         console.log("thisEl: ", thisEl);
 

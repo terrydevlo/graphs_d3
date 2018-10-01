@@ -7,10 +7,10 @@ All raw data can be found in /raw and all graph ready data can be found in /dat
 The sample datasets include "BG" -- an elementary 3 neuron example that is depicted with bond graph formalism. These are overlaid on an anatomical "flatmap".
 Regions under the SVG can be dragged and the nodes will be centered on the correspondingly housed region of the SVG. Clicking on a region or a node will zoom to the region / node.
 
-# ApiNATOMY Spinothalamic / Gracile Tract data example
+## ApiNATOMY Spinothalamic / Gracile Tract data example
 This ApiNATOMY dataset was used as an example dataset for exploring the ApiNATOMY data model and graphing nervous system tracts. See the ApiNATOMY Lyph Viewer that includes more data and includes visual components of ApiNATOMY lyphs, layers and topology in the graphs (https://github.com/open-physiology/open-physiology-viewer).
 
-# Swanson rat nervous system example
+## Swanson rat nervous system example
 The Swanson datasets that were obtained provide a wealth of containment data for the rat nervous system, connectivity data is far more sparse and is 'protected' under password. Connectivity data available can be found under the "CNS regions" dataset.
 
 Raw data can be found in /raw/swanson and was obtained from these publications
